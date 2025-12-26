@@ -1,0 +1,7 @@
+# Test Case 1: Basic - Equal Burst Times (Tests FCFS vs others)
+# id,name,service,priority,required_ms,arrival_ms
+1,Patient_A,Consultation,3,200,0
+2,Patient_B,Lab Test,3,200,50
+3,Patient_C,Treatment,3,200,100
+4,Patient_D,Consultation,3,200,150
+5,Patient_E,Lab Test,3,200,200

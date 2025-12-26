@@ -1,0 +1,11 @@
+# Test Case 4: Round Robin - Long vs Short Jobs
+# Tests RR fairness with different burst times
+# id,name,service,priority,required_ms,arrival_ms
+1,Short_1,Consultation,3,10,0
+2,Long_1,Treatment,3,100,0
+3,Short_2,Lab Test,3,15,5
+4,Long_2,Consultation,3,120,10
+5,Short_3,Treatment,3,20,15
+6,Long_3,Lab Test,3,90,20
+7,Medium_1,Consultation,3,50,25
+8,Medium_2,Treatment,3,60,30

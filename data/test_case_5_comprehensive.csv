@@ -1,0 +1,18 @@
+# Test Case 5: Comprehensive - Mixed Scenario for Full Report
+# All service types, priorities, and varying burst times
+# id,name,service,priority,required_ms,arrival_ms
+1,Ahmad_Khan,Consultation,2,250,0
+2,Sara_Ali,Lab Test,4,180,20
+3,Bilal_Ahmed,Treatment,1,400,40
+4,Fatima_Noor,Consultation,3,150,60
+5,Usman_Riaz,Lab Test,5,300,80
+6,Ayesha_Malik,Treatment,2,220,100
+7,Hassan_Raza,Consultation,1,120,120
+8,Zainab_Shah,Lab Test,3,280,140
+9,Ali_Hassan,Treatment,4,350,160
+10,Maryam_Iqbal,Consultation,2,200,180
+11,Omar_Farooq,Lab Test,1,100,200
+12,Hina_Tariq,Treatment,5,450,220
+13,Imran_Butt,Consultation,3,175,240
+14,Sana_Javed,Lab Test,2,260,260
+15,Rizwan_Khan,Treatment,4,320,280

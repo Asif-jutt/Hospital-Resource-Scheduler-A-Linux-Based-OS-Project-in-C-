@@ -1,0 +1,13 @@
+# Test Case 3: Priority Scheduling - Mixed Priorities
+# Tests if high priority patients are served first
+# id,name,service,priority,required_ms,arrival_ms
+1,LowPri_1,Consultation,5,200,0
+2,HighPri_1,Treatment,1,300,10
+3,MedPri_1,Lab Test,3,150,20
+4,HighPri_2,Consultation,1,100,30
+5,LowPri_2,Treatment,5,250,40
+6,MedPri_2,Lab Test,3,180,50
+7,HighPri_3,Treatment,2,120,60
+8,LowPri_3,Consultation,4,220,70
+9,Critical,Treatment,1,80,80
+10,Normal,Lab Test,3,200,90

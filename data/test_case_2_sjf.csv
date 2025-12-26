@@ -1,0 +1,11 @@
+# Test Case 2: SJF Advantage - Varying Burst Times
+# Short jobs mixed with long jobs - SJF should have best average wait time
+# id,name,service,priority,required_ms,arrival_ms
+1,Emergency_1,Treatment,1,50,0
+2,Routine_1,Consultation,3,500,10
+3,Quick_Lab,Lab Test,4,100,20
+4,Long_Treat,Treatment,2,800,30
+5,Fast_Check,Consultation,5,80,40
+6,Medium_Lab,Lab Test,3,300,50
+7,Urgent_1,Treatment,1,150,60
+8,Standard,Consultation,3,400,70
